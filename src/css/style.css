@@ -1,0 +1,149 @@
+body {
+  background-color: #FAFAFA;
+}
+
+header {
+  padding: 2rem;
+  border: 0.5px solid rgb(235, 229, 229);
+  background-color: #fdfdfd;
+  
+}
+
+
+
+#box-header-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header h3 {
+  background-image: linear-gradient(
+    to right,
+    #d065eb,
+    #440055,
+    #200a25,
+    #440055
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+main {
+  padding: 2rem;
+}
+.box-1 {
+  color: #fff;
+  cursor: pointer;
+  padding: 3rem;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+
+.element_first {
+  /*background-color: rgb(101, 25, 172);*/
+  position: relative;
+  top: 5rem;
+  left: 10%;
+}
+
+.box-2 {
+  border-radius: 3px;
+  padding: 1rem;
+  margin-right: 4rem;
+  position: relative;
+  bottom: 1%;
+  right: 10%;
+}
+
+.box-3 {
+  cursor: pointer;
+  padding: 3rem;
+  border-radius: 3px;
+  /*opacity: 0.6;*/
+  position: relative;
+  bottom: 10%;
+  left: 15%;
+  z-index: 1;
+}
+
+.box-4 {
+  align-items: center;
+  color: #fff;
+  cursor: pointer;
+  padding: 3rem;
+  border-radius: 3px;
+}
+
+.box-content_primary_1 {
+  background-color: rgb(207, 132, 45);
+  /*background-image: url("../img/monster.png");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+  position: relative; /* Adicionamos essa linha */
+  /*opacity: 0.6;*/
+  
+}
+
+.box-content_primary_2 {
+  background-color: rgb(207, 132, 45);
+  /*background-image: url("../img/monster.png");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+  position: relative; /* Adicionamos essa linha */
+  opacity: 0.8;
+  right: 2px;
+  bottom: 20%;
+  padding: 2rem;
+  margin-top: 5rem;
+
+}
+
+#conteudo-1 {
+  width: 100%;
+  height: auto;
+  margin-bottom: 4rem;
+}
+
+#conteudo-2 {
+  width: 100%;
+  height: auto;
+  /*margin-bottom: 4rem;*/
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  width: 100%;
+  background: #fafafa;
+  padding: 2rem;
+  color: #333;
+  padding: 2rem;
+}
+
+#box-footer-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: #fafafa 1px solid;
+  padding: 2rem;
+}
+
+#box-footer-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: #fafafa 1px solid;
+  padding: 2rem;
+}
+
+/*.instagramLogoFooter{
+ 
+}*/
+
+.whatsappLogoFooter{
+margin-left: 1rem;
+}
+
+
+

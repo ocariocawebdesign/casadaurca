@@ -1,2 +1,2 @@
-# casadaurca
-Template criado em Gatsby JS
+# template-start-gatsbyjs-ocariocaweb
+Template inicial para desenvolver página institucional em Gatsby.
