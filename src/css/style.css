@@ -77,27 +77,18 @@ main {
 
 .box-content_primary_1 {
   background-color: rgb(207, 132, 45);
-  /*background-image: url("../img/monster.png");
-    background-repeat: no-repeat;
-    background-size: cover;*/
+  
   position: relative; /* Adicionamos essa linha */
-  /*opacity: 0.6;*/
+  opacity: 0.8
   
 }
 
-/*.box-content_primary_2 {
+.box-content_primary_2 {
   background-color: rgb(207, 132, 45);
-  background-image: url("../img/monster.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-  position: relative; /* Adicionamos essa linha 
-  opacity: 0.8;
-  right: 2px;
-  bottom: 20%;
-  padding: 2rem;
-  margin-top: 5rem;
-
-}*/
+  position: relative; /* Adicionamos essa linha */
+  opacity: 0.8
+  
+}
 
 #conteudo-1 {
   width: 100%;
