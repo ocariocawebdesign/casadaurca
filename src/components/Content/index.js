@@ -1,5 +1,4 @@
 import React from "react";
-import "../Content/responsive.css"
 import FotoCasa_29 from "../Content/img/fotoCasa_29.jpg"
 import FotoCasa_27 from "../Content/img/fotoCasa_27.jpg"
 
