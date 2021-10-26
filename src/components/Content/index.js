@@ -1,4 +1,5 @@
 import React from "react";
+import "../Content/responsive.css"
 import FotoCasa_29 from "../Content/img/fotoCasa_29.jpg"
 import FotoCasa_27 from "../Content/img/fotoCasa_27.jpg"
 
@@ -39,7 +40,7 @@ const Content = () => (
                 </div>
 
                 <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                  <div className="box-2 content_primary_2">
+                  <div className="">
                   <img className="img-thumbnail" src={FotoCasa_29} alt="Foto urbana" />
 
 

@@ -85,19 +85,19 @@ main {
   
 }
 
-.box-content_primary_2 {
+/*.box-content_primary_2 {
   background-color: rgb(207, 132, 45);
-  /*background-image: url("../img/monster.png");
+  background-image: url("../img/monster.png");
     background-repeat: no-repeat;
-    background-size: cover;*/
-  position: relative; /* Adicionamos essa linha */
+    background-size: cover;
+  position: relative; /* Adicionamos essa linha 
   opacity: 0.8;
   right: 2px;
   bottom: 20%;
   padding: 2rem;
   margin-top: 5rem;
 
-}
+}*/
 
 #conteudo-1 {
   width: 100%;
@@ -144,6 +144,9 @@ footer {
 .whatsappLogoFooter{
 margin-left: 1rem;
 }
+
+
+
 
 
 

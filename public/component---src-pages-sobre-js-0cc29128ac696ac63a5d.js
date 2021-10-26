@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[991],{5671:function(e,t,l){l.r(t);var r=l(7294);t.default=function(){return r.createElement(r.Fragment,null,r.createElement("div",null,r.createElement("h1",null,"Sobre nós")))}}}]);
-//# sourceMappingURL=component---src-pages-sobre-js-0cc29128ac696ac63a5d.js.map

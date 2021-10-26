@@ -7,10 +7,12 @@ const Header = () => (
   <header>
 
     <div className="container">
+    <h1>Olá Voce</h1>
               <div className="row">
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                     <img className="img-fluid" src={Logo} alt="Logo O Carioca Web" />
-                      <h3 className="text-left">Desenvolvido por CariocaWeb</h3>
+                      <h3 className="text-left">Desenvolvido por Carioca Web Design</h3>
+                     
 
                     <div className="menu">
                           <ul class="nav">

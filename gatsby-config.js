@@ -1,6 +1,8 @@
 /**
  * Configure your Gatsby site with this file.
+ * https://medium.com/@ocariocawebdesign/crie-um-template-starter-gatsby-6c99d2521e67
  //https://phoenixnap.com/kb/update-node-js-version
+ https://unicorncoder.medium.com/live-reload-do-react-n%C3%A3o-funciona-e20c7b066348
  * See: https://www.gatsbyjs.com/docs/gatsby-config/
  */
 module.exports = {

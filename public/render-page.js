@@ -12490,23 +12490,23 @@ function y(){return(y=Object.assign||function(e){for(var t=1;t<arguments.length;
 
 /***/ "react-dom/server":
 /*!****************************************************************************************!*\
-  !*** external "/home/producao/Documentos/casaDaUrca/node_modules/react-dom/server.js" ***!
+  !*** external "/home/producao/Documentos/casadaurca/node_modules/react-dom/server.js" ***!
   \****************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/producao/Documentos/casaDaUrca/node_modules/react-dom/server.js");
+module.exports = require("/home/producao/Documentos/casadaurca/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
 /*!***********************************************************************************!*\
-  !*** external "/home/producao/Documentos/casaDaUrca/node_modules/react/index.js" ***!
+  !*** external "/home/producao/Documentos/casadaurca/node_modules/react/index.js" ***!
   \***********************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/producao/Documentos/casaDaUrca/node_modules/react/index.js");
+module.exports = require("/home/producao/Documentos/casadaurca/node_modules/react/index.js");
 
 /***/ }),
 
