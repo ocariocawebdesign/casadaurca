@@ -1,20 +1,17 @@
 import React from "react";
 import Logo from "../Header/img/logo-teste.png";
-import InstagramLogo from "../Footer/img/instagram.png"
-import WhatsAppLogo from "../Footer/img/whatsapp.png"
+import InstagramLogo from "../Footer/img/instagram.png";
+import WhatsAppLogo from "../Footer/img/whatsapp.png";
 
 const Header = () => (
   <header>
-
     <div className="container">
-    <h1>Olá Voce</h1>
-              <div className="row">
-                  <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                    <img className="img-fluid" src={Logo} alt="Logo O Carioca Web" />
-                      <h3 className="text-left">Desenvolvido por Carioca Web Design</h3>
-                     
+      <div className="row">
+        <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+          <img className="img-fluid" src={Logo} alt="Logo O Carioca Web" />
+          <h3 className="text-left">Desenvolvido por Carioca Web Design</h3>
 
-                    <div className="menu">
+          {/*<div className="menu">
                           <ul class="nav">
                           <li class="nav-item">
                             <a class="nav-link active text-uppercase" aria-current="page" href="#">Home</a>
@@ -24,19 +21,20 @@ const Header = () => (
                           </li>
                         </ul>
 
-                    </div>
-                </div>
-                
-                  <div id="box-header-2" className="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
-                      <img className="img-fluid instagramLogoFooter pull-right" src={InstagramLogo} alt="Logo Instagram" />
-                      <img className="img-fluid whatsappLogoFooter pull-right" src={WhatsAppLogo} alt="Logo Instagram" /> 
-                  </div>
-            <div>                 
-        </div>             
+                  </div>*/}
+        </div>
+
+        <div
+          id="box-header-2"
+          className="col-xs-12 col-sm-12 col-md-6 col-lg-6 "
+        >
+          {/*} <img className="img-fluid instagramLogoFooter pull-right" src={InstagramLogo} alt="Logo Instagram" />
+                      <img className="img-fluid whatsappLogoFooter pull-right" src={WhatsAppLogo} alt="Logo Instagram" /> */}
+        </div>
+        <div></div>
+      </div>
     </div>
-</div>
+  </header>
+);
 
-</header>
-)
-
-export default Header
+export default Header;
